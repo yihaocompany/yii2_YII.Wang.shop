@@ -1,16 +1,3 @@
-<p>
-  <a href="http://YII.Wang.shop.appfront.fancyecommerce.com/">
-    <img src="http://img.appfront.fancyecommerce.com/custom/logo.png">
-  </a>
-</p>
-<br/>
-
-
-
-
-[![Latest Stable Version](https://poser.pugx.org/fancyecommerce/YII.Wang.shop/v/stable)](https://packagist.org/packages/fancyecommerce/YII.Wang.shop) [![Total Downloads](https://poser.pugx.org/fancyecommerce/YII.Wang.shop/downloads)](https://packagist.org/packages/fancyecommerce/YII.Wang.shop) [![Latest Unstable Version](https://poser.pugx.org/fancyecommerce/YII.Wang.shop/v/unstable)](https://packagist.org/packages/fancyecommerce/YII.Wang.shop)
-
-
 
 
 项目状态：
